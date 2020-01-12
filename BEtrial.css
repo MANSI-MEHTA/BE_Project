@@ -1,0 +1,33 @@
+body{
+    background-image: url("C:\Users\Tanvi\Desktop\BE Project\doctor.jpg");
+}
+
+.jumbotron{
+	background-color: white;
+}
+
+#choose{
+	max-height:00px;
+	color: green;
+}
+
+
+
+.text-center{
+	margin-top:00px;	
+}
+
+#doctor_img{
+	max-height: 100px;
+	max-width: 150px;
+	   
+}
+
+#patient_img{
+	max-height: 100px;
+	max-width: 150px;
+}
+
+#about{
+	background-color: navy;
+}
